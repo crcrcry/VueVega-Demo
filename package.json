@@ -1,0 +1,23 @@
+{
+  "name": "test-compiler",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.3.2",
+    "lodash": "^4.17.15",
+    "vega": "^5.8.0",
+    "vega-embed": "^6.1.0",
+    "vega-lite": "^4.0.0-beta.11",
+    "vue": "^2.6.10",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

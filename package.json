@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "vega": "^5.8.0",
     "vega-embed": "^6.1.0",
     "vega-lite": "^4.0.0-beta.11",
